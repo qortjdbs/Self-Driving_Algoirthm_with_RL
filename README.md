@@ -1,4 +1,8 @@
-# KAIST Pre_URP: Reinfocement Learning-based Self Driving Algirthm in Unity Virtual Environment
+# KAIST Pre-URP: Reinfocement Learning-based Self Driving Algirthm in Unity Virtual Environment
+
+<br>
+<img src='preurp.png'>
+<br>
 
 <strong>Reward Function Design</strong><br>
 <li>Situation 1. Euclidean Distance Between Initial Position and Target Position</li>
